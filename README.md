@@ -1,1 +1,1 @@
-# university-java
+# uniproject
